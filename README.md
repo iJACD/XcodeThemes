@@ -1,5 +1,5 @@
 # XcodeThemes
-export of my xcode themes to sync between macbooks
+_Export of my Xcode themes to sync between macbooks_
 
 Custom syntax color themes are located in
 
